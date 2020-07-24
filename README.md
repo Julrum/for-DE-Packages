@@ -1,4 +1,4 @@
-# Ubuntu Packages
+# for DE Packages
 
 ## Ubuntu Package List
 
@@ -42,3 +42,9 @@
 ### fonts
 
 1.  [D2Coding](https://github.com/naver/d2codingfont)
+
+## VSCode extensions
+
+### Theme
+
+1.  [hipster](https://marketplace.visualstudio.com/items?itemName=ModoNoob.vscode-hipster-theme)
