@@ -45,15 +45,29 @@
 
 ## VSCode extensions
 
-### Theme
-
-1.  [hipster](https://marketplace.visualstudio.com/items?itemName=ModoNoob.vscode-hipster-theme)
-
-
-
-1.  [gitblame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
-2.  [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-3.  [JS Refactor](https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor)
-4.  [gitignore]()
-5.  [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-6.  
+1.  [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+2.  [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+3.  [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+4.  [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+5.  [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+6.  [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+7.  [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
+8.  [gitblame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
+9.  [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+10.  [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
+11.  [Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
+12.  [hipster](https://marketplace.visualstudio.com/items?itemName=ModoNoob.vscode-hipster-theme)
+13.  [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+14.  [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+15.  [JS-CSS-HTML Formatter](https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter)
+16.  [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
+17.  [JS Refactor](https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor)
+18.  [Korean Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko)
+19.  [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+20.  [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+21.  [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+22.  [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+23.  [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+24.  [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
+25.  [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+26.  [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
