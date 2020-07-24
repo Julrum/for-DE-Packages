@@ -48,3 +48,12 @@
 ### Theme
 
 1.  [hipster](https://marketplace.visualstudio.com/items?itemName=ModoNoob.vscode-hipster-theme)
+
+
+
+1.  [gitblame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
+2.  [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+3.  [JS Refactor](https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor)
+4.  [gitignore]()
+5.  [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+6.  
