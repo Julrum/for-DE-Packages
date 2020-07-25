@@ -9,11 +9,19 @@
 3.  [libc6](https://ubuntu.pkgs.org/)
 4.  [make](https://ubuntu.pkgs.org/)
 
+### Terminal
+
+1. [hyper](https://hyper.is/)
+
 ### Theme
 
 1.  [arc-theme](https://github.com/arc-design/arc-theme)
 2.  [numix-theme](https://github.com/numixproject)
 3.  [paper-theme](https://github.com/snwh/paper-gtk-theme)
+
+### Tool
+
+1. [postman](https://www.postman.com/)
 
 ### Tweak
 
@@ -32,10 +40,18 @@
 7.  [marker](https://github.com/pindexis/marker)
 8.  [pet](https://github.com/knqyf263/pet)
 9.  [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-10.  [ripgrep](https://github.com/BurntSushi/ripgrep)
-11.  [todotxt](https://github.com/todotxt/todo.txt-cli)
-12.  [completions](https://github.com/zsh-users/zsh-completions)
-13.  [history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
+10.  [pure](https://github.com/sindresorhus/pure)
+11.  [ripgrep](https://github.com/BurntSushi/ripgrep)
+12.  [todotxt](https://github.com/todotxt/todo.txt-cli)
+13.  [completions](https://github.com/zsh-users/zsh-completions)
+14.  [history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
+
+### for 20.04
+
+1. [g++-9](https://pkgs.org/)
+2. [git](https://pkgs.org/)
+3. [vim](https://pkgs.org/)
+4. [zsh](https://pkgs.org/)
 
 ## etc
 
